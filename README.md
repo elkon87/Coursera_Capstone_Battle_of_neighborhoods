@@ -8,3 +8,7 @@ This repository contains the following files:
 Intro_Week1.pdf : This report describes the problem statement for this project
 
 Data_Week1.pdf : This report discusses the datasets used for this project.
+
+My Notebook pushed showing my code. 
+
+A blogpost. 
